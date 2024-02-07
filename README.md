@@ -1,4 +1,5 @@
 # GenAI_SountracksOfLife
+Make your life a song with AI!
 
 I built this application to produce custom soundtracks based on personal characteristics and life events, using Google's Gemini API. 
 
